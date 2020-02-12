@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=name\ address\ salary\ empid
+comment0.target=emp(String,\ String,\ double,\ String)
+comment1.params=n\ a\ s\ e
+comment1.target=void\ input(String,\ String,\ double,\ String)
+comment2.target=void\ show()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=arrange()
+comment1.target=void\ readword()
+comment2.target=void\ sort()
+comment3.target=void\ display()
+comment4.params=args
+comment4.target=void\ main([)
+numComments=5

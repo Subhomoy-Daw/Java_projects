@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=void\ main()
+comment1.params=a\ b
+comment1.target=int\ add(int,\ int)
+comment2.params=a\ b
+comment2.target=int\ sub(int,\ int)
+comment3.params=a\ b
+comment3.target=int\ mult(int,\ int)
+numComments=4
